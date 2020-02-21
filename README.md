@@ -4,6 +4,8 @@ Bar theme plugin for [xonssh/xxh](https://github.com/xonssh/xxh). Install:
 ```
 cd ~/.xxh/plugins
 git clone --depth 1 https://github.com/xonssh/xxh-plugin-theme-bar
+# connect once with updating host
+xxh yourhost +if
 ```
 
 Appearence:

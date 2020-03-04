@@ -17,7 +17,7 @@ def bar():
   usr = getpass.getuser()
   
   pills = {
-	'conda_env': str($CONDA_DEFAULT_ENV if 'CONDA_DEFAULT_ENV' in ${...} and $CONDA_DEFAULT_ENV != 'base' else '')
+    'conda_env': str($CONDA_DEFAULT_ENV if 'CONDA_DEFAULT_ENV' in ${...} and $CONDA_DEFAULT_ENV != 'base' else '')
   }
   
   pillst = ""
@@ -25,9 +25,9 @@ def bar():
   pills_cnt = 0
   for p,t in pills.items():
     if t:
-		pills_cnt+=1
-		pillst += '%s ' % t
-		pillsc += '{PILLBG}{PILLFG} %s {NOC}{BARBG}{BARFG} ' % t
+      pills_cnt+=1
+      pillst += '%s ' % t
+      pillsc += '{PILLBG}{PILLFG} %s {NOC}{BARBG}{BARFG} ' % t
   
   lp="{hst} {usr} {pwd}".format(pwd=pwd, hst=hst, usr=usr)
   rp="{pillst} {date}".format(date=date, pillst=pillst)

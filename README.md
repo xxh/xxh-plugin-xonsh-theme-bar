@@ -1,4 +1,4 @@
-Bar theme plugin for [xonssh/xxh](https://github.com/xxh/xxh). Install:
+Bar theme plugin for [xxh/xxh](https://github.com/xxh/xxh). Install:
 
 ## Install
 From xxh repo:

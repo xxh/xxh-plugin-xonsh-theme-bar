@@ -3,7 +3,7 @@ Bar theme plugin for [xxh/xxh](https://github.com/xxh/xxh). Install:
 ## Install
 From xxh repo:
 ```
-xxhp i xxh-plugin-xonsh-theme-bar
+xxh +I xxh-plugin-xonsh-theme-bar
 xxh yourhost +s xonsh +if
 ```
 From any repo:

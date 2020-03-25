@@ -4,13 +4,13 @@ Bar theme plugin for [xxh/xxh](https://github.com/xxh/xxh). Install:
 From xxh repo:
 ```
 xxh +I xxh-plugin-xonsh-theme-bar
-xxh yourhost +s xonsh +if
 ```
 From any repo:
 ```
-cd ~/.xxh/xxh/plugins
-git clone --depth 1 https://github.com/xxh/xxh-plugin-xonsh-theme-bar
-# connect once with updating host
+xxh +I xxh-plugin-xonsh-theme-bar+git+https://github.com/xxh/xxh-plugin-xonsh-theme-bar
+```
+Connect:
+```
 xxh yourhost +s xonsh +if
 ```
 

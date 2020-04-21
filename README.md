@@ -11,7 +11,7 @@ xxh +I xxh-plugin-xonsh-theme-bar+git+https://github.com/xxh/xxh-plugin-xonsh-th
 ```
 Connect:
 ```
-xxh yourhost +s xonsh-appimage +if
+xxh yourhost +s xonsh +if
 ```
 
 Appearence:

@@ -1,4 +1,4 @@
-Bar theme plugin for [xxh/xxh](https://github.com/xxh/xxh). Install:
+Bar theme plugin for [xxh/xxh](https://github.com/xxh/xxh).
 
 ## Install
 From xxh repo:

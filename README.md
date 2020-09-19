@@ -1,7 +1,19 @@
+# DEPRECATED ↓
+
+This xxh-plugin is deprecated because it simulate the [xontrib-prompt-bar](https://github.com/anki-code/xontrib-prompt-bar) installation. 
+
+The best way to continue using [xontrib-prompt-bar](https://github.com/anki-code/xontrib-prompt-bar) is to [fork xxh-plugin-prerun-dotfiles](https://github.com/xxh/xxh-plugin-prerun-dotfiles) and add `xontrib-prompt-bar` to the `pip-requirements.txt` and `home/.xonshrc` files.
+
+This repository leaved here as an example of xxh-plugin for education reasons.
+
+# DEPRECATED ↑
+
+---------------
+---------------
+---------------
+
+
 Bar theme plugin for [xxh/xxh](https://github.com/xxh/xxh).
-
-Note! This is the old version of prompt. If you want to use actual bar prompt there is a more powerful [xontrib-prompt-bar](https://github.com/anki-code/xontrib-prompt-bar).
-
 
 ## Install
 From xxh repo:
